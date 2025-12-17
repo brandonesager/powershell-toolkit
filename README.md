@@ -4,7 +4,7 @@ A collection of production-ready PowerShell scripts for Microsoft 365 administra
 
 ## About
 
-**Author:** Brandon Sager
+**Author:** Brandon Sager 
 **Background:** Tier 2 Remote Services Engineer managing 7,000+ endpoints across Microsoft 365, Active Directory, and hybrid Azure environments.
 
 ## Script Categories
